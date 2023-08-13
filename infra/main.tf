@@ -1,4 +1,4 @@
-# Bucket to store website
+# Bucket to store website  
 
 resource "google_storage_bucket" "website" {
     name = "example-website-by2d-ns-4g-afg"
